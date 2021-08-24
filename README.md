@@ -1,2 +1,2 @@
 # Python-Practice
-# Markdown File in this directory
+This is a collection of my independent work in Python. 
